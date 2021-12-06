@@ -27,7 +27,7 @@ rfc3986==1.5.0
 rsserpent==0.1.4
 rsserpent-plugin-bilibili @ git+https://github.com/RSSerpent/rsserpent-plugin-bilibili.git
 BeautifulSoup4
-rsserpent-plugin-caa @ git+https://github.com/wuzhongyi1105/rsserpent-plugin-caa.git
+rsserpent-plugin-caa @ git+git://github.com/wuzhongyi1105/rsserpent-plugin-caa.git
 six==1.16.0
 sniffio==1.2.0
 starlette==0.16.0

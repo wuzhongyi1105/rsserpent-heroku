@@ -25,7 +25,7 @@ python-dateutil==2.8.2
 requests==2.26.0
 rfc3986==1.5.0
 rsserpent==0.1.4
-rsserpent-plugin-bilibili @ git+https://github.com/RSSerpent/rsserpent-plugin-bilibili.git@2494bbb7eb7e55a9f758adaa8e807f0171705076
+rsserpent-plugin-bilibili @ git+https://github.com/RSSerpent/rsserpent-plugin-bilibili.git
 BeautifulSoup4
 rsserpent-plugin-caa @ git+https://github.com/wuzhongyi1105/rsserpent-plugin-caa.git
 six==1.16.0

@@ -22,7 +22,6 @@ pyee==8.2.2
 pyppeteer==0.2.6
 pyquery==1.4.3
 python-dateutil==2.8.2
-requests
 rfc3986==1.5.0
 rsserpent==0.1.4
 rsserpent-plugin-bilibili @ git+https://github.com/RSSerpent/rsserpent-plugin-bilibili.git@9634371aa2f38b5eddc30f526a55c749bf53a165

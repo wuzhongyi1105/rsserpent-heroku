@@ -13,7 +13,7 @@ h11==0.12.0
 httpcore==0.13.7
 httpx==0.19.0
 idna==3.3
-importlib-metadata==4.8.2
+importlib-metadata==4.9.0
 Jinja2==3.0.3
 lxml==4.7.1
 MarkupSafe==2.0.1
@@ -24,7 +24,7 @@ pyquery==1.4.3
 python-dateutil==2.8.2
 rfc3986==1.5.0
 rsserpent==0.1.4
-rsserpent-plugin-bilibili @ git+https://github.com/RSSerpent/rsserpent-plugin-bilibili.git@9634371aa2f38b5eddc30f526a55c749bf53a165
+rsserpent-plugin-bilibili @ git+https://github.com/RSSerpent/rsserpent-plugin-bilibili.git@86eaf1d3bb9999cd07af0842f9fa60e06907376b
 rsserpent-plugin-caa @ git+https://github.com/wuzhongyi1105/rsserpent-plugin-caa.git@1669f7becd0008476f5dd63ea62a1b55a0bc48e3
 rsserpent-plugin-fulltext @ git+https://github.com/wuzhongyi1105/rsserpent-plugin-fulltext.git@da36a723538e6d447516e3b3b0b51b3746b0d1df
 rsserpent-plugin-jam @ git+https://github.com/wuzhongyi1105/rsserpent-plugin-jam.git@5e1e9301caf641d09c2f0e8cbc1a4b3d63a686cb

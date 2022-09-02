@@ -28,7 +28,7 @@ rsserpent-plugin-caa @ git+https://github.com/wuzhongyi1105/rsserpent-plugin-caa
 rsserpent-plugin-fulltext @ git+https://github.com/wuzhongyi1105/rsserpent-plugin-fulltext.git@da36a723538e6d447516e3b3b0b51b3746b0d1df
 rsserpent-plugin-jam @ git+https://github.com/wuzhongyi1105/rsserpent-plugin-jam.git@5e1e9301caf641d09c2f0e8cbc1a4b3d63a686cb
 six==1.16.0
-sniffio==1.2.0
+sniffio==1.3.0
 starlette==0.16.0
 tqdm==4.64.0
 typing_extensions==4.3.0
